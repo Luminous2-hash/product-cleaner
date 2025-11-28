@@ -25,3 +25,7 @@ data = [
     "name_header": "نام کالا"
     },
 ]
+
+db_generate = False
+rename = True
+barcode_validation = False
